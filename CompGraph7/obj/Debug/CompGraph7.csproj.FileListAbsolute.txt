@@ -1,0 +1,23 @@
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\CompGraph7.exe.config
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\CompGraph7.exe
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\CompGraph7.pdb
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\SharpGL.dll
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\SharpGL.SceneGraph.dll
+G:\Artem\Программирование\CompGraph7\CompGraph7\bin\Debug\SharpGL.WinForms.dll
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csprojResolveAssemblyReference.cache
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.Form1.resources
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.Properties.Resources.resources
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csproj.GenerateResource.Cache
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.exe
+G:\Artem\Программирование\CompGraph7\CompGraph7\obj\Debug\CompGraph7.pdb
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\bin\Debug\CompGraph7.exe.config
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\bin\Debug\CompGraph7.exe
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\bin\Debug\CompGraph7.pdb
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csprojAssemblyReference.cache
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.Form1.resources
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.Properties.Resources.resources
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csproj.GenerateResource.cache
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csproj.CoreCompileInputs.cache
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.csproj.CopyComplete
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.exe
+F:\Archaic Tome Folder\Artem\Programming\CompGraph7\CompGraph7\obj\Debug\CompGraph7.pdb
